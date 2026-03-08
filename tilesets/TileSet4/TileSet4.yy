@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"TileSet4",
-  "out_columns":0,
+  "out_columns":6,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -24,12 +24,12 @@
     "path":"texturegroups/Default",
   },
   "tileAnimationFrames":[],
-  "tileAnimationSpeed":15.0,
+  "tileAnimationSpeed":3.0,
   "tileHeight":16,
   "tilehsep":0,
   "tilevsep":0,
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":40,
 }
