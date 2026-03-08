@@ -1,6 +1,6 @@
 
 
-move_speed=5;
+move_speed=4;
 face=3;
 
 sprites_idle[0] = Denise_right_idling_spr;

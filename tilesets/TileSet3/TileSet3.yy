@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"TileSet3",
-  "out_columns":0,
+  "out_columns":3,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -17,7 +17,10 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_water_kraj",
+    "path":"sprites/spr_water_kraj/spr_water_kraj.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":12,
 }
