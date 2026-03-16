@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_tree_4",
   "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_tree_4",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_items",
-    "path":"folders/Objects/obj_items.yy",
+    "name":"obj_trees",
+    "path":"folders/Objects/obj_trees.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_magicwand1",
-    "path":"sprites/spr_magicwand1/spr_magicwand1.yy",
+    "name":"spr_tree_4",
+    "path":"sprites/spr_tree_4/spr_tree_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,
